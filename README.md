@@ -34,4 +34,4 @@ To address this, I optimized the file reading process by switching to `fs.create
 
 ## Script for Generating Large Text Files
 
-To thoroughly evaluate the application's performance with substantial datasets, I introduced a dedicated script (`generateTxt.js`). This script generates 31 text files, each with a size of 100 megabytes, using the `fs` and `crypto` libraries. This synthetic data generation aids in robust testing and validation of the application's scalability and resource utilization.
+To thoroughly evaluate the application's performance with substantial datasets, I introduced a dedicated script (`textGeneration.js`). This script generates 31 text files, each with a size of 100 megabytes, using the `fs` and `crypto` libraries. This synthetic data generation aids in robust testing and validation of the application's scalability and resource utilization.
