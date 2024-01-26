@@ -5,7 +5,7 @@ To launch the Docker container with specific resource limits and compatibility f
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/example/repo.git
+   git clone https://github.com/sumj25/Headout-Assignment
    ```
 
 2. **Build the Docker image named "headout-assignment":**
