@@ -1,0 +1,17 @@
+{
+  "name": "headout-assignment",
+  "version": "1.0.0",
+  "description": "Headout Software Engineer Intern 2024 Assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Kundan",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2"
+  }
+}
